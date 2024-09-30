@@ -1,0 +1,280 @@
+S.No: 1
+City: Bangalore
+Commodity: Wheat
+Min Price: 3200
+Max Price: 4200
+Model Price: 3700
+Date: 23 Sep 2024
+
+S.No: 2
+City: Bangalore
+Commodity: Wheat
+Min Price: 3200
+Max Price: 4200
+Model Price: 3700
+Date: 24 Sep 2024
+
+S.No: 3
+City: Bangalore
+Commodity: Wheat
+Min Price: 3200
+Max Price: 4200
+Model Price: 3700
+Date: 25 Sep 2024
+
+S.No: 4
+City: Bangalore
+Commodity: Wheat
+Min Price: 3200
+Max Price: 4200
+Model Price: 3700
+Date: 26 Sep 2024
+
+S.No: 5
+City: Bangalore
+Commodity: Wheat
+Min Price: 3200
+Max Price: 4200
+Model Price: 3700
+Date: 27 Sep 2024
+
+S.No: 6
+City: Kolar
+Commodity: Wheat
+Min Price: 4000
+Max Price: 4500
+Model Price: 4300
+Date: 26 Sep 2024
+
+S.No: 7
+City: Bidar
+Commodity: Wheat
+Min Price: 2000
+Max Price: 2591
+Model Price: 2450
+Date: 27 Sep 2024
+
+S.No: 8
+City: Bidar
+Commodity: Wheat
+Min Price: 2200
+Max Price: 2704
+Model Price: 2500
+Date: 25 Sep 2024
+
+S.No: 9
+City: Bidar
+Commodity: Wheat
+Min Price: 2400
+Max Price: 2900
+Model Price: 2500
+Date: 24 Sep 2024
+
+S.No: 10
+City: Bidar
+Commodity: Wheat
+Min Price: 2450
+Max Price: 2751
+Model Price: 2600
+Date: 28 Sep 2024
+
+S.No: 11
+City: Bidar
+Commodity: Wheat
+Min Price: 2450
+Max Price: 2801
+Model Price: 2500
+Date: 26 Sep 2024
+
+S.No: 12
+City: Bidar
+Commodity: Wheat
+Min Price: 2600
+Max Price: 3200
+Model Price: 2900
+Date: 27 Sep 2024
+
+S.No: 13
+City: Bidar
+Commodity: Wheat
+Min Price: 2900
+Max Price: 3500
+Model Price: 3100
+Date: 26 Sep 2024
+
+S.No: 14
+City: Bidar
+Commodity: Wheat
+Min Price: 3000
+Max Price: 3400
+Model Price: 3200
+Date: 28 Sep 2024
+
+S.No: 15
+City: Bidar
+Commodity: Wheat
+Min Price: 3000
+Max Price: 3500
+Model Price: 3300
+Date: 25 Sep 2024
+
+S.No: 16
+City: Bijapur
+Commodity: Wheat
+Min Price: 3200
+Max Price: 3900
+Model Price: 3550
+Date: 24 Sep 2024
+
+S.No: 17
+City: Bijapur
+Commodity: Wheat
+Min Price: 3200
+Max Price: 3900
+Model Price: 3550
+Date: 25 Sep 2024
+
+S.No: 18
+City: Bijapur
+Commodity: Wheat
+Min Price: 3200
+Max Price: 3900
+Model Price: 3550
+Date: 26 Sep 2024
+
+S.No: 19
+City: Gadag
+Commodity: Wheat
+Min Price: 777
+Max Price: 5418
+Model Price: 2875
+Date: 28 Sep 2024
+
+S.No: 20
+City: Gadag
+Commodity: Wheat
+Min Price: 1777
+Max Price: 5315
+Model Price: 3782
+Date: 24 Sep 2024
+
+S.No: 21
+City: Gadag
+Commodity: Wheat
+Min Price: 1833
+Max Price: 4715
+Model Price: 3181
+Date: 25 Sep 2024
+
+S.No: 22
+City: Gadag
+Commodity: Wheat
+Min Price: 1844
+Max Price: 4659
+Model Price: 3506
+Date: 26 Sep 2024
+
+S.No: 23
+City: Gadag
+Commodity: Wheat
+Min Price: 1917
+Max Price: 5114
+Model Price: 3035
+Date: 27 Sep 2024
+
+S.No: 24
+City: Gadag
+Commodity: Wheat
+Min Price: 1967
+Max Price: 4899
+Model Price: 2876
+Date: 23 Sep 2024
+
+S.No: 25
+City: Dharwad
+Commodity: Wheat
+Min Price: 2092
+Max Price: 4501
+Model Price: 3521
+Date: 23 Sep 2024
+
+S.No: 26
+City: Dharwad
+Commodity: Wheat
+Min Price: 2401
+Max Price: 3501
+Model Price: 2887
+Date: 26 Sep 2024
+
+S.No: 27
+City: Belgaum
+Commodity: Wheat
+Min Price: 3400
+Max Price: 3700
+Model Price: 3500
+Date: 27 Sep 2024
+
+S.No: 28
+City: Mysore
+Commodity: Wheat
+Min Price: 3520
+Max Price: 3850
+Model Price: 3520
+Date: 23 Sep 2024
+
+S.No: 29
+City: Mysore
+Commodity: Wheat
+Min Price: 3800
+Max Price: 4000
+Model Price: 3850
+Date: 24 Sep 2024
+
+S.No: 30
+City: Belgaum
+Commodity: Wheat
+Min Price: 2800
+Max Price: 3178
+Model Price: 3000
+Date: 24 Sep 2024
+
+S.No: 31
+City: Shimoga
+Commodity: Wheat
+Min Price: 3700
+Max Price: 4300
+Model Price: 4000
+Date: 23 Sep 2024
+
+S.No: 32
+City: Shimoga
+Commodity: Wheat
+Min Price: 3700
+Max Price: 4300
+Model Price: 4000
+Date: 24 Sep 2024
+
+S.No: 33
+City: Shimoga
+Commodity: Wheat
+Min Price: 3700
+Max Price: 4300
+Model Price: 4000
+Date: 25 Sep 2024
+
+S.No: 34
+City: Shimoga
+Commodity: Wheat
+Min Price: 3700
+Max Price: 4300
+Model Price: 4000
+Date: 26 Sep 2024
+
+S.No: 35
+City: Shimoga
+Commodity: Wheat
+Min Price: 3700
+Max Price: 4300
+Model Price: 4000
+Date: 27 Sep 2024
+

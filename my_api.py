@@ -11,9 +11,9 @@ import re
 import time
 
 # Initialize Firebase Admin SDK
-cred = credentials.Certificate("prototype-sih-24-firebase-adminsdk-qesqn-187e3ecd17.json")
+cred = credentials.Certificate("//")
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://prototype-sih-24-default-rtdb.firebaseio.com/'  # Ensure correct URL
+    'databaseURL': '//'  # Ensure correct URL
 })
 
 def close_popup(driver):
